@@ -6,6 +6,29 @@ A curated collection of programming languages, compilers, interpreters, and lang
 
 ---
 
+## Table of Contents
+
+- [Languages](#languages)
+- [Lexers](#lexers)
+- [Parsers](#parsers)
+- [Semantic Analysis](#semantic-analysis)
+- [Type Systems](#type-systems)
+- [Backends & Code Generation](#backends--code-generation)
+- [Configuration Files](#configuration-files)
+- [Error Reporting & Diagnostics](#error-reporting--diagnostics)
+- [CLI Argument Parsing](#cli-argument-parsing)
+- [Distribution & Packaging](#distribution--packaging)
+- [Shell & System Operations](#shell--system-operations)
+- [File I/O](#file-io)
+- [Testing](#testing)
+- [Data Formats](#data-formats)
+- [Documentation & Markup](#documentation--markup)
+- [Path Manipulation](#path-manipulation)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
 ## Languages
 
 - **[eyg-lang](https://github.com/CrowdHailer/eyg-lang)** — A structural-typed scripting language with managed effects, designed as a safer bash/POSIX shell replacement
@@ -87,6 +110,7 @@ A curated collection of programming languages, compilers, interpreters, and lang
 
 - **[mork](https://codeberg.org/krig/mork)** — A Commonmark-compliant Markdown parser in pure Gleam, with GFM and Obsidian extensions, can output HTML
 - **[jot](https://github.com/lpil/jot)** — A parser for Djot (a markup language like Markdown), can output HTML or parse to an AST
+
 
 ## Path Manipulation
 
