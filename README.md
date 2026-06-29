@@ -16,6 +16,7 @@ A curated collection of programming languages, compilers, interpreters, and lang
 - [Backends & Code Generation](#backends--code-generation)
 - [Configuration Files](#configuration-files)
 - [Error Reporting & Diagnostics](#error-reporting--diagnostics)
+- [Source Positions & Spans](#source-positions--spans)
 - [CLI Argument Parsing](#cli-argument-parsing)
 - [Distribution & Packaging](#distribution--packaging)
 - [Shell & System Operations](#shell--system-operations)
@@ -77,6 +78,10 @@ A curated collection of programming languages, compilers, interpreters, and lang
 
 - **[snag](https://github.com/lpil/snag)** — A boilerplate-free ad-hoc error type with contextual error chaining
 - **[report](https://github.com/MystPi/report)** — Create informative, styled source code reports with annotations (inspired by codespan-reporting)
+
+## Source Positions & Spans
+
+- **[spanner](https://github.com/Willyboar/spanner)** — A small Gleam library for tracking positions and spans in source code, designed for use in lexers and parsers
 
 ## CLI Argument Parsing
 
