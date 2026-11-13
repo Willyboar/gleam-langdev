@@ -32,6 +32,7 @@ A curated collection of programming languages, compilers, interpreters, and lang
 
 ## Languages
 
+- **[pooka-lang](https://github.com/pooka-lang/pooka)** —  A small, statically typed, object-oriented programming language for the BEAM, with a playful spirit.
 - **[eyg-lang](https://github.com/CrowdHailer/eyg-lang)** — A structural-typed scripting language with managed effects, designed as a safer bash/POSIX shell replacement
 - **[bella](https://github.com/MystPi/bella)** — A simple functional programming language written in Gleam
 - **[jet](https://github.com/i2y/jet)** — A dynamically typed OOP-functional hybrid language with Ruby-like syntax that runs on the BEAM
